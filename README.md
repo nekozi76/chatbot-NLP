@@ -10,7 +10,8 @@ Proyek ini adalah implementasi sederhana dari chatbot menggunakan Python. Chatbo
 
 1. Pastikan Python sudah terpasang.
 2. Instal dependensi yang diperlukan dengan menjalankan perintah berikut:
-3. Jalankan file `chat.py` untuk memulai chatbot.
+   `pip install -r requirements.txt`
+4. Jalankan file `chat.py` untuk memulai chatbot.
 
 ## Struktur Proyek
 
