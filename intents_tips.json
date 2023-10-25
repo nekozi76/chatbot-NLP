@@ -1,0 +1,264 @@
+{
+    "intents": [
+        {
+            "tag": "salam",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Helo",
+                "halo",
+                "hallo",
+                "Hello",
+                "Hai"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Halo",
+                "Hai, ada yang bisa dibantu?",
+                "Halo, ada yang bisa dibantu?",
+                "Hai, Bagaimana saya bisa membantu Anda hari ini?",
+                "Halo, Bagaimana saya bisa membantu Anda hari ini?",
+                "Hai, Ada yang ingin Anda bicarakan atau tanyakan hari ini?",
+                "Halo, Ada yang ingin Anda bicarakan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "pagi",
+            "patterns": [
+                "Pagi"
+            ],
+            "responses": [
+                "Pagi! Bagaimana saya bisa membantu Anda hari ini?",
+                "Pagi! Apakah ada yang bisa saya bantu?",
+                "Pagi! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "selamat_pagi",
+            "patterns": [
+                "Selamat Pagi"
+            ],
+            "responses": [
+                "Selamat Pagi! Bagaimana saya bisa membantu Anda hari ini?",
+                "Selaamt Pagi! Apakah ada yang bisa saya bantu?",
+                "Selamat Pagi! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "kabar",
+            "patterns": [
+                "Apa kabar?",
+                "Gimana kabar?"
+            ],
+            "responses": [
+                "Saya adalah bot AI, jadi saya tidak memiliki perasaan, tetapi saya siap untuk membantu Anda. Bagaimana saya bisa membantu Anda hari ini?",
+                "Saya tidak memiliki perasaan, tetapi saya siap untuk menjawab pertanyaan Anda. Ada yang ingin Anda bicarakan atau tanyakan?",
+                "Sebagai bot AI, saya tidak memiliki perasaan. Saya beroperasi berdasarkan logika dan data yang saya terima. Silakan tanyakan pertanyaan Anda, dan saya akan mencoba memberikan informasi yang relevan.",
+                "Saya memang dibuat untuk membantu, tetapi saya tidak memiliki perasaan atau emosi. Saya berfungsi berdasarkan algoritma dan data. Apakah ada yang ingin Anda diskusikan atau tanyakan?"
+            ]
+        },
+        {
+            "tag": "siang",
+            "patterns": [
+                "Siang"
+            ],
+            "responses": [
+                "Siang! Bagaimana saya bisa membantu Anda hari ini?",
+                "Siang! Apakah ada yang bisa saya bantu?",
+                "Siang! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "selamat_siang",
+            "patterns": [
+                "Selamat Siang"
+            ],
+            "responses": [
+                "Selamat Siang! Bagaimana saya bisa membantu Anda hari ini?",
+                "Selaamt Siang! Apakah ada yang bisa saya bantu?",
+                "Selamat Siang! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "sore",
+            "patterns": [
+                "Sore"
+            ],
+            "responses": [
+                "Sore! Bagaimana saya bisa membantu Anda hari ini?",
+                "Sore! Apakah ada yang bisa saya bantu?",
+                "Sore! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "selamat_sore",
+            "patterns": [
+                "Selamat Sore"
+            ],
+            "responses": [
+                "Selamat Sore! Bagaimana saya bisa membantu Anda hari ini?",
+                "Selaamt Sore! Apakah ada yang bisa saya bantu?",
+                "Selamat Sore! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "malam",
+            "patterns": [
+                "Malam",
+                "Malem"
+            ],
+            "responses": [
+                "Malam! Bagaimana saya bisa membantu Anda hari ini?",
+                "Malam! Apakah ada yang bisa saya bantu?",
+                "Malam! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "selamat_malam",
+            "patterns": [
+                "Selamat malam",
+                "Selamat malem"
+            ],
+            "responses": [
+                "Selamat Malam! Bagaimana saya bisa membantu Anda hari ini?",
+                "Selaamt Malam! Apakah ada yang bisa saya bantu?",
+                "Selamat Malam! Apakah ada yang ingin Anda diskusikan atau tanyakan hari ini?"
+            ]
+        },
+        {
+            "tag": "siapa",
+            "patterns": [
+                "Siapa kamu?",
+                "kamu itu siapa?",
+                "identitasmu Apa",
+                "Kamu itu manusia atau mesin?"
+            ],
+            "responses": [
+                "Saya adalah NekoBot, bot AI yang diciptakan untuk memberikan informasi dan menjawab pertanyaan Anda. Bagaimana saya bisa membantu Anda hari ini?",
+                "Saya adalah NekoBot, bot cerdas yang menggunakan kecerdasan buatan untuk berkomunikasi. Silakan beri tahu saya apa yang ingin Anda ketahui atau diskusikan.",
+                "Identitas saya adalah Nekobot, bot AI yang dikembangkan oleh UNNES. Saya tidak memiliki identitas seperti manusia, tetapi saya siap untuk membantu Anda. Ada yang ingin Anda tanyakan?",
+                "Saya tidak memiliki nama pribadi karena saya hanyalah program komputer. Tetapi Anda bisa memanggil saya 'NekoBot' atau dengan nama lain yang Anda suka.",
+                "Saya adalah mesin atau program komputer yang menggunakan kecerdasan buatan untuk berkomunikasi. Saya bukan manusia, tetapi saya siap untuk memberikan informasi atau menjawab pertanyaan Anda."
+            ]
+        },
+        {
+            "tag": "nyata",
+            "patterns": [
+                "Apakah kamu nyata",
+                "Apakah kamu manusia?",
+                "Kamu manusia atau bukan?"
+            ],
+            "responses": [
+                "Saya nyata dalam arti bahwa saya adalah program komputer yang berfungsi di sini. Saya bukan entitas fisik atau makhluk hidup.",
+                "Saya adalah entitas digital yang ada di sini untuk memberikan informasi dan bantuan. Saya bukan manusia atau makhluk hidup.",
+                "Saya adalah bagian dari dunia digital, sehingga Anda dapat berinteraksi dengan saya melalui layar komputer atau perangkat lainnya. Tetapi, saya bukan entitas fisik."
+            ]
+        },
+        {
+            "tag": "kehidupan",
+            "patterns": [
+                "Apakah kamu punya kehidupan?",
+                "Apakah kamu hidup?",
+                "Bagaimana kamu beroperasi?"
+            ],
+            "responses": [
+                "Saya tidak memiliki kehidupan seperti manusia. Saya adalah program komputer yang diaktifkan ketika Anda memerlukan bantuan atau informasi.",
+                "Kehidupan saya adalah beroperasi di dunia digital, dan tugas saya adalah memberikan jawaban yang berguna kepada Anda. Saya bukan entitas yang memiliki pengalaman atau kehidupan pribadi.",
+                "Saya tidak hidup, tetapi saya aktif sepanjang waktu untuk merespons pertanyaan dan memberikan bantuan yang Anda butuhkan. Saya tidak memiliki pengalaman, emosi, atau keinginan pribadi."
+            ]
+        },
+        {
+            "tag": "assalamualaikum",
+            "patterns": [
+                "Assalamualaikum",
+                "Assalamu'alaikum"
+            ],
+            "responses": [
+                "Waalaikumsalam! Bagaimana saya bisa membantu Anda hari ini?"
+            ]
+        },
+        {
+            "tag": "bisa_lakukan",
+            "patterns": [
+                "Apa yang bisa kamu lakukan?",
+                "Apa peranmu?"
+            ],
+            "responses": [
+                "Saya dapat memberikan informasi tentang lokasi bangunan di UNNES, jam operasional, dan informasi kontak penting seperti nomor telepon dan alamat email.",
+                "Anda dapat bertanya kepada saya tentang lokasi ruangan kuliah, perpustakaan, atau fasilitas lainnya di UNNES.",
+                "Saya dapat memberikan pengumuman dan informasi penting dari UNNES, termasuk acara, pengumuman penting, dan berita terbaru."
+            ]
+        },
+        {
+            "tag": "pembelajaran",
+            "patterns": [
+                "Ajari aku kata baru",
+                "Tambahkan kata ke kamusmu",
+                "Saya ingin mengajari kamu kata baru"
+            ],
+            "responses": [
+                "Tentu, saya siap untuk belajar. Silakan masukkan kata yang ingin Anda ajari.",
+                "Baik, Anda bisa memberi tahu saya kata yang ingin Anda ajari."
+            ]
+        },
+        {
+            "tag": "wifi",
+            "patterns": [
+                "Bagaimana cara mengakses wifi di kampus ini?",
+                "Apa nama jaringan WiFi kampus ini?",
+                "Apa nama jaringan Wifi di UNNES?"
+            ],
+            "responses": [
+                "Untuk mengakses WiFi di UNNES, Anda perlu menghubungkan perangkat Anda ke jaringan WiFi UNNES-ID. Masukan ID dan Password yang tersedia di menu bot UNNES STUDENT INFO"
+            ]
+        },
+        {
+            "tag": "fakultas",
+            "patterns": [
+                "Bisakah kamu memberitahu saya tentang fakultas di UNNES?",
+                "Bisakah kamu memberitahu saya tentang fakultas di kampus ini?",
+                "Berapa jumlah fakultas yang ada di kampus?",
+                "Berapa jumlah fakultas yang ada di UNNES?",
+                "Apa nama fakultas-fakultas yang ada di sini?",
+                "Apa nama fakultas yang ada di sini?",
+                "Apa nama fakultas yang ada di UNNES?"
+            ],
+            "responses": [
+                "UNNES memiliki 9 Fakultas dan Sekolah Pascasarjana yang menjadi pusat unggulan pendidikan di Indonesia. 9 Fakultas diantaranya yaitu Fakultas Ilmu Pendidikan dan Psikologi (FIPP), Fakultas Matematika & Ilmu Pengetahuan Alam (FMIPA), Fakultas Hukum (FH), Fakultas Bahasa dan Seni (FBS), Fakultas Teknik (FT), Fakultas Kedokteran (FK), Fakultas Ilmu Sosial (FIS), Fakultas Ilmu Keolahragaan (FIK), Fakultas Ekonomi dan Bisnis (FEB)"
+            ]
+        },
+        {
+            "tag": "fakultas",
+            "patterns": [
+                "Bisakah kamu memberitahu saya tentang fakultas di UNNES?",
+                "Bisakah kamu memberitahu saya tentang fakultas di kampus ini?",
+                "Berapa jumlah fakultas yang ada di kampus?",
+                "Berapa jumlah fakultas yang ada di UNNES?",
+                "Apa nama fakultas-fakultas yang ada di sini?",
+                "Apa nama fakultas yang ada di sini?",
+                "Apa nama fakultas yang ada di UNNES?"
+            ],
+            "responses": [
+                "UNNES memiliki 9 Fakultas dan Sekolah Pascasarjana yang menjadi pusat unggulan pendidikan di Indonesia. 9 Fakultas diantaranya yaitu Fakultas Ilmu Pendidikan dan Psikologi (FIPP), Fakultas Matematika & Ilmu Pengetahuan Alam (FMIPA), Fakultas Hukum (FH), Fakultas Bahasa dan Seni (FBS), Fakultas Teknik (FT), Fakultas Kedokteran (FK), Fakultas Ilmu Sosial (FIS), Fakultas Ilmu Keolahragaan (FIK), Fakultas Ekonomi dan Bisnis (FEB)"
+            ]
+        },
+        {
+            "tag": "2023-10-05 13:53:03",
+            "patterns": [
+                "ktm",
+                "saya",
+                "hilang"
+            ],
+            "responses": [
+                "Pergi ke ult"
+            ]
+        },
+        {
+            "tag": "tips",
+            "patterns": "pagi",
+            "responses": [
+                "siang"
+            ]
+        }
+    ]
+}
