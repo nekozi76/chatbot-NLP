@@ -362,6 +362,165 @@
                 "Untuk mengajukan cuti, akses laman my.unnes.ac.id dan ikuti langkah-langkah berikut: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nPastikan untuk menghubungi Kaprodi setelah mengajukan cuti untuk proses validasi. Setelah mendapatkan kode pembayaran, lakukan pembayaran di BNI dan unduh kartu cuti dari laman tersebut beberapa jam setelah pembayaran berhasil.",
                 "Jika Anda ingin mengajukan cuti, lakukan prosesnya secara online melalui my.unnes.ac.id dengan mengikuti langkah-langkah berikut: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nSetelah pengajuan disetujui, pastikan untuk membayar dengan menggunakan kode pembayaran yang diberikan di BNI. Jangan lupa untuk mengunduh kartu cuti setelah pembayaran berhasil."
             ]
+        },
+        {
+            "tag": "cetak_UKT",
+            "patterns":[
+                "Bagaimana cara mencetak bukti pembayaran UKT?",
+                "Apakah ada langkah-langkah khusus yang perlu saya ikuti untuk mencetak bukti pembayaran UKT?",
+                "Apakah ada tutorial yang dapat membantu saya dalam mencetak bukti pembayaran UKT?",
+                "Bisakah Anda memberi tahu saya prosedur lengkap tentang cara mengunduh atau mencetak bukti pembayaran UKT?",
+                "Saya tidak yakin bagaimana cara mencetak bukti pembayaran UKT, bisakah Anda memberi saya panduan langkah demi langkah?"
+            ],
+            "responses":[
+                "Kami dapat melakukan proses pencetakkan bukti pembayaran UKT hanya bagi mahasiswa S1, untuk mahasiswa pascasarjana dapat meminta langsung ke bagian keuangan pascasarjana. Selanjutnya silakan bubuhi stempel UNNES yang dapat diperoleh di ULT Pusat atau TU fakultas",
+                "Untuk pencetakan bukti pembayaran UKT, kami dapat membantu hanya bagi mahasiswa S1. Mahasiswa pascasarjana sebaiknya mengajukan permohonan langsung ke bagian keuangan pascasarjana. Pastikan Anda melampirkan stempel UNNES yang dapat diperoleh di ULT Pusat atau TU fakultas.",
+                "Jika Anda membutuhkan bukti pembayaran UKT, kami bisa membantu jika Anda adalah mahasiswa S1. Mahasiswa pascasarjana perlu menghubungi bagian keuangan pascasarjana langsung. Jangan lupa untuk menempelkan stempel UNNES yang bisa didapatkan di ULT Pusat atau TU fakultas.",
+                "Proses pencetakan bukti pembayaran UKT hanya tersedia untuk mahasiswa S1. Jika Anda mahasiswa pascasarjana, silakan ajukan permintaan langsung ke bagian keuangan pascasarjana. Pastikan Anda memiliki stempel UNNES yang dapat diperoleh di ULT Pusat atau TU fakultas.",
+                "Kami dapat membantu mencetak bukti pembayaran UKT untuk mahasiswa S1. Mahasiswa pascasarjana sebaiknya menghubungi bagian keuangan pascasarjana. Pastikan Anda telah melampirkan stempel UNNES yang bisa Anda peroleh di ULT Pusat atau TU fakultas."
+            ]
+        },
+        {
+            "tag": "VA_tidak_muncul",
+            "patterns":[
+                "Mengapa Nomor Virtual Account untuk pembayaran UKT saya tidak muncul?",
+                "Nomor Virtual Account untuk pembayaran UKT tidak muncul",
+                "Kenapa Nomor Virtual Account untuk pembayaran UKT saya tidak terlihat di halaman pembayaran?",
+                "Mengapa saya tidak bisa menemukan Nomor Virtual Account untuk membayar UKT saya?",
+                "Saya tidak bisa menemukan Nomor Virtual Account untuk pembayaran UKT saya.",
+                "Bagaimana cara menyelesaikan pembayaran UKT jika Nomor Virtual Account tidak muncul?",
+                "mengapa Nomor Virtual Account untuk pembayaran UKT masih tidak terlihat?",
+                "Mengapa Nomor Virtual Account untuk pembayaran UKT saya tidak ditampilkan di halaman pembayaran?",
+                "mengapa Nomor Virtual Account untuk pembayaran UKT saya tetap tidak muncul?",
+                "Nomor Virtual Account untuk pembayaran UKT saya tidak tersedia"
+            ],
+            "responses":[
+                "Pada masa pembayaran registrasi administrasi (pembayaran UKT) akan kami lakukan generate ulang nomor VA saudara, silakan cek kembali datapokok menu pembayaran UKT/SPP/SPI. Jika tidak dalam masa pembayaran UKT, silakan tuliskan aduan di lamanunnes.ac.id/helpdesk (buat tiket baru)",
+                "Pada saat proses pembayaran UKT, sistem kami mengalami peningkatan yang sedang berlangsung. Mohon untuk memeriksa kembali menu pembayaran UKT/SPP/SPI dalam beberapa jam ke depan. Jika masalah masih berlanjut, jangan ragu untuk membuat tiket pengaduan baru di laman unnes.ac.id/helpdesk.",
+                "Kami sedang mengalami peningkatan sistem yang mungkin menyebabkan keterlambatan dalam penampilan Nomor Virtual Account (VA) untuk pembayaran UKT. Pastikan untuk memeriksa kembali menu pembayaran UKT/SPP/SPI dalam waktu beberapa jam. Jika masalah berlanjut, silakan ajukan keluhan melalui tiket baru di laman unnes.ac.id/helpdesk.",
+                "Dalam beberapa kasus, Nomor Virtual Account (VA) untuk pembayaran UKT mungkin mengalami keterlambatan dalam penampilannya. Pastikan untuk memeriksa kembali menu pembayaran UKT/SPP/SPI dalam beberapa jam ke depan. Jika Anda masih mengalami masalah, harap ajukan keluhan melalui tiket baru di laman unnes.ac.id/helpdesk."
+            ]
+        },
+        {
+            "tag": "reset_email_password",
+            "patterns":[
+                "Bagaimana reset password email mahasiswa?",
+                "Saya lupa kata sandi/ password email",
+                "Bagaimana cara mengatur ulang kata sandi email mahasiswa?",
+                "Saya lupa kata sandi untuk email mahasiswa, tolong tunjukkan langkah-langkah resetnya.",
+                "Apakah prosedur untuk mereset kata sandi email mahasiswa yang terlupakan?",
+                "Bagaimana langkah-langkah untuk mengubah password email mahasiswa yang lupa?",
+                "Apa yang harus saya lakukan jika saya tidak dapat mengingat kata sandi untuk email mahasiswa?",
+                "Tolong berikan instruksi tentang bagaimana mengatur ulang kata sandi untuk akun email mahasiswa.",
+                "Saya mengalami kesulitan dengan kata sandi email mahasiswa, apakah ada panduan yang dapat diikuti?",
+                "Bagaimana saya bisa mengakses ulang email mahasiswa jika saya lupa kata sandinya?",
+                "Tolong beri tahu saya apa langkah-langkahnya jika saya perlu mengubah kata sandi untuk email mahasiswa."
+            ],
+            "responses":[
+                "Kami dapat mereset password email mahasiswa dan pegawai. Silakan tulis aduan 'permohonan reset password email' di laman ult.unnes.ac.id (buat tiket baru) dengan melampirkan KTM/KTP",
+                "Untuk mereset password email mahasiswa, Anda dapat membuat aduan 'permohonan reset password email' di laman ult.unnes.ac.id. Pastikan untuk melampirkan salinan KTM atau KTP Anda.",
+                "Jika Anda perlu mereset password email mahasiswa, silakan ajukan permohonan reset password di laman ult.unnes.ac.id dengan melampirkan KTM atau KTP Anda.",
+                "Prosedur untuk mereset password email mahasiswa dapat diakses di laman ult.unnes.ac.id. Mohon lengkapi formulir 'permohonan reset password email' dan lampirkan salinan KTM atau KTP.",
+                "Apabila Anda membutuhkan bantuan untuk mereset password email mahasiswa, mohon ajukan permohonan di laman ult.unnes.ac.id dengan melampirkan salinan KTM/KTP Anda.",
+                "Untuk proses reset password email mahasiswa, silakan buat tiket baru di laman ult.unnes.ac.id dan pastikan Anda melampirkan salinan KTM atau KTP Anda pada formulir permohonan."
+            ]
+        },
+        {
+            "tag": "judul_skripsi",
+            "patterns":[
+                "Bagaimana cara memperbaiki judul skripsi/tesis/disertasi?",
+                "Bagaimana cara memperbaiki judul skripsi?",
+                "Bagaimana cara memperbaiki judul tesis?",
+                "Bagaimana cara memperbaiki judul disertasi?",
+                "Bagaimana cara merevisi judul skripsi/tesis/disertasi?",
+                "Bagaimana cara merevisi judul skripsi?",
+                "Bagaimana cara merevisi judul tesis?",
+                "Bagaimana cara merevisi judul disertasi?",
+                "Bagaimana cara mengubah judul skripsi/tesis/disertasi?",
+                "Bagaimana cara mengubah judul skripsi?",
+                "Bagaimana cara mengubah judul tesis?",
+                "Bagaimana cara mengubah judul disertasi?",
+                "Bagaimana cara mengubah judul skripsi/tesis/disertasi saya agar lebih sesuai dengan tujuan penelitian dan kontribusi ilmiahnya?"
+            ],
+            "responses":[
+                "Jika mahasiswa belum melakukan SBVT, silakan langsung ke langkah 4. Jika sudah melakukan SBVT, silakan ikuti langkah 1-7 berikut untuk memperbaiki judul skripsi/ tesis/ disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai",
+                "Jika Anda belum melakukan SBVT, silakan langsung ke langkah 4. Jika sudah melakukannya, ikuti langkah-langkah ini untuk memperbaiki judul skripsi/tesis/disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai",
+                "Jika langkah validasi SBVT belum dilakukan, silakan ikuti langkah 1-3. Jika sudah divalidasi, lanjutkan ke langkah 4-7 berikut untuk memperbaiki judul skripsi/tesis/disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai",
+                "Jika proses validasi SBVT belum selesai, silakan periksa langkah 1-3. Jika sudah selesai, lanjutkan ke langkah-langkah berikut untuk mengedit judul skripsi/tesis/disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai",
+                "Jika proses pembatalan SBVT belum dilakukan, lanjutkan dengan langkah 1-3. Jika sudah selesai, ikuti langkah-langkah berikut untuk memperbaiki judul skripsi/tesis/disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai",
+                "Jika belum ada konfirmasi pembatalan SBVT, silakan periksa langkah 1-3. Jika sudah ada konfirmasi, lanjutkan dengan langkah-langkah berikut untuk mengedit judul skripsi/tesis/disertasi. \n1. Meminta memo dari jurusan ditujukan kepada koordinator ULT untuk membatalkan SBVT. Memo silakan dikirim melalui tiket aduan yang sama dengan nomor tiket permohonan ATAU Jurusan/Prodi meminta langsung kepada ULT, maka tidak perlu memo \n2. ULT akan melakukan pembatalan validasi SBVT dan menginformasikan kepada mahasiswa \n3. Mahasiswa konfirmasi ke jurusan bahwa ULT sudah membatalkan validasi SBVT \n4. urusan login sikadu2.0 dengan level sebagai supervisor jurusan untuk mengedit judul skripsi/tesis/disertasi melalui menu SBVT \n5. Jurusan melakukan validasi SBVT kembali \n6. Mahasiswa cek di specimen transkrip apakah judul sudah berubah atau belum. Silakan cek dengan cara unduh di laman sikadu2.0 mahasiswa>pencetakan atau di menu SBVT supervisor jurusan \n7. Proses selesai"
+            ]
+        },
+        {
+            "tag": "klaim_windows",
+            "patterns":[
+                "bagaimana cara klaim windows 10/ 11 education?",
+                "Bagaimana langkah-langkah klaim Windows 10/11 Education untuk keperluan pendidikan?",
+                "Tolong beri tahu saya prosedur lengkap untuk mengklaim Windows 10/11 Education.",
+                "Apa yang perlu saya lakukan untuk mendapatkan akses ke Windows 10/11 Education, dan bagaimana cara klaimnya?",
+                "Bisakah Anda membimbing saya melalui langkah-langkah klaim Windows 10/11 Education dengan mudah?",
+                "Saya tertarik untuk menggunakan Windows 10/11 Education. Bagaimana cara saya mengaksesnya?",
+                "Apakah ada persyaratan khusus yang perlu dipenuhi untuk mengklaim Windows 10/11 Education, dan di mana saya bisa menemukan informasi lebih lanjut?",
+                "Cara klaim windows 10",
+                "Cara klaim windows 11"
+            ],
+            "responses":[
+                "Yuk simak video berikut https://www.youtube.com/watch?v=rVkOGkXlwX4",
+                "Pastikan Anda mengikuti langkah-langkah yang tepat di video ini untuk mengklaim windows 10/11: https://www.youtube.com/watch?v=rVkOGkXlwX4",
+                "Untuk panduan langkah demi langkah, silakan lihat video ini untuk mengklaim windows 10/11: https://www.youtube.com/watch?v=rVkOGkXlwX4",
+                "Video berikut akan memberi Anda petunjuk rinci tentang cara klaim Windows 10/11: https://www.youtube.com/watch?v=rVkOGkXlwX4",
+                "Anda dapat menemukan petunjuk lengkap cara klaim windows 10/11 dalam video ini: https://www.youtube.com/watch?v=rVkOGkXlwX4",
+                "Simak video di tautan ini untuk panduan langkah-demi-langkah cara klaim windows 10/11: https://www.youtube.com/watch?v=rVkOGkXlwX4"
+            ]
+        },
+        {
+            "tag": "klaim_office",
+            "patterns":[
+                "bagaimana cara klaim / mendapatkan lisensi office 365/ microsoft dari UNNES?",
+                "Bagaimana langkah-langkah klaim lisensi Office 365/Microsoft dari UNNES?",
+                "Apa prosedur yang harus diikuti untuk mendapatkan lisensi Office 365/Microsoft dari UNNES",
+                "Bagaimana cara mendapatkan akses ke Office 365/Microsoft melalui UNNES",
+                "Bisakah Anda menjelaskan bagaimana proses klaim lisensi Office 365/Microsoft dari UNNES",
+                "Di mana saya bisa menemukan informasi lengkap tentang bagaimana cara mengakses lisensi Office 365/Microsoft dari UNNES?",
+                "Bagaimana cara mengaktifkan lisensi Office 365/Microsoft yang disediakan oleh UNNES?",
+                "Apakah UNNES memberikan panduan langkah demi langkah untuk mendapatkan lisensi Office 365/Microsoft?",
+                "Cara klaim office 365",
+                "Cara klaim microsoft office 365",
+                "Prosedur klaim office 365",
+                "Cara dapatkan lisensi office 365"
+            ],
+            "responses":[
+                "Untuk klaim lisensi Office 365 dari UNNES, Silakan klik tautan berikut untuk register s.id/office365unnes tim ULT akan memproses dan mengirimkan lisensi ke email mahasiswa setiap Hari Senin pada jam kerja",
+                "Untuk klaim lisensi Office 365 dari UNNES, silakan akses tautan pendaftaran di s.id/office365unnes. Tim ULT akan segera memproses dan mengirimkan lisensi ke alamat email mahasiswa pada Hari Senin selama jam kerja",
+                "Jika Anda ingin mendapatkan lisensi Office 365 dari UNNES, silakan daftar melalui tautan berikut: s.id/office365unnes. Lisensi akan dikirimkan ke alamat email mahasiswa setiap Hari Senin selama jam kerja oleh tim ULT.",
+                "Untuk mendapatkan lisensi Microsoft Office 365 dari UNNES, kunjungi s.id/office365unnes dan lakukan registrasi. Tim ULT akan memproses dan mengirimkan lisensi ke alamat email mahasiswa pada Hari Senin selama jam kerja.",
+                "Anda bisa mendapatkan lisensi Office 365 dari UNNES dengan mengklik tautan pendaftaran di s.id/office365unnes. Tim ULT akan mengurus dan mengirimkan lisensi ke email mahasiswa pada Hari Senin saat jam kerja.",
+                "Untuk klaim lisensi Office 365 dari UNNES, silakan akses tautan pendaftaran di s.id/office365unnes. Tim ULT akan segera memproses permintaan Anda dan mengirimkan lisensi ke alamat email mahasiswa setiap Hari Senin selama jam kerja."
+            ]
+        },
+        {
+            "tag": "klaim_office",
+            "patterns":[
+                "Mengapa nilai saya di sikadu tanda tanya?",
+                "Kenapa nilai akademik saya di Sikadu ada tanda tanya?",
+                "Sikadu menampilkan nilai saya dengan tanda tanya, mengapa hal ini terjadi?",
+                "Saya melihat tanda tanya di sebelah nilai saya di Sikadu, apa artinya?",
+                "Apakah Anda bisa menjelaskan mengapa Sikadu menampilkan nilai saya dengan tanda tanya?",
+                "Apakah tanda tanya di Sikadu mengindikasikan masalah dengan peringkat atau transkrip saya?",
+                "Sikadu menunjukkan tanda tanya di nilai saya, bagaimana saya bisa memperbaikinya?",
+                "Sikadu menunjukkan nilai saya dengan tanda tanya, apa yang harus saya lakukan?",
+                "Cara klaim office 365",
+                "Cara klaim microsoft office 365",
+                "Prosedur klaim office 365",
+                "Cara dapatkan lisensi office 365"
+            ],
+            "responses":[
+                "Untuk kasus nilai mahasiswa belum muncul (muncul tanda tanya ?) atau registrasi sudah ok tetapi tertulis belum registrasi ada 3 kondisi: \n1. Mahasiswa belum melunasi pembayaran UKT. Bisa dicek di halaman pembayaran ukt mahasiswa (sistem datapokok) \n2. Ada kemungkinan sudah membayar tapi belum masuk ke sistem pembayaran, untuk masalah ini bisa lapor ke laman ult.unnes.ac.id (buat tiket baru) \n3. Dosen belum menginput nilai mahasiswa",
+                "Ketika muncul tanda tanya (?) pada nilai Anda di Sikadu, biasanya ada tiga kemungkinan yang perlu diperiksa. \nPertama, pastikan bahwa pembayaran UKT telah diselesaikan dengan baik melalui sistem pembayaran yang tersedia di halaman mahasiswa. \nKedua, terkadang masalah dapat terjadi pada verifikasi pembayaran yang belum tercatat dengan benar, dalam hal ini, Anda disarankan untuk melaporkannya melalui laman ult.unnes.ac.id. \nTerakhir, kemungkinan lain adalah keterlambatan dari dosen dalam menginputkan nilai mahasiswa. Jika masalah Anda tidak teratasi, silakan buat tiket melalui laman yang telah disebutkan untuk mendapatkan bantuan lebih lanjut.",
+                "Mengapa nilai Anda di Sikadu ditandai dengan tanda tanya (?) Ada beberapa alasan mengapa hal ini bisa terjadi. \nPertama, mungkin Anda belum melunasi pembayaran UKT. Anda dapat memeriksa status pembayaran Anda di halaman pembayaran UKT mahasiswa (sistem datapokok) untuk memastikan segalanya sudah diselesaikan. \nKedua, ada kemungkinan bahwa Anda sudah melakukan pembayaran, tetapi itu belum tercatat dengan benar dalam sistem pembayaran. Jika Anda yakin telah membayar, namun masih ada masalah, Anda dapat membuat laporan melalui laman ult.unnes.ac.id (buat tiket baru) untuk mendapatkan bantuan lebih lanjut. \nKetiga, dalam beberapa kasus, nilai Anda mungkin belum muncul karena dosen belum menginputnya ke dalam sistem. Pastikan untuk berkomunikasi dengan dosen Anda jika ini adalah penyebabnya.",
+                "Jika Anda menemukan tanda tanya (?) di Sikadu, hal itu bisa disebabkan oleh tiga kondisi utama. \nPertama, mungkin saja pembayaran UKT belum diselesaikan sepenuhnya, jadi pastikan untuk memeriksa status pembayaran Anda di halaman pembayaran UKT. \nSelain itu, ada kemungkinan bahwa pembayaran sudah dilakukan namun belum tercatat dengan benar oleh sistem. Jika Anda mengalami hal ini, segera laporkan masalah tersebut melalui laman ult.unnes.ac.id untuk mendapatkan bantuan lebih lanjut. \nTerakhir, tanda tanya tersebut juga dapat muncul karena dosen belum menginput nilai Anda. Pastikan untuk berkomunikasi dengan dosen terkait agar masalah ini segera teratasi.",
+                "Jika nilai Anda di Sikadu menunjukkan tanda tanya (?), hal ini dapat disebabkan oleh beberapa faktor. \nPertama, pastikan bahwa pembayaran UKT telah diselesaikan dengan benar. \nKedua, terkadang pembayaran telah dilakukan tetapi belum tercatat dalam sistem, dalam hal ini Anda perlu menghubungi pihak terkait melalui laman ult.unnes.ac.id. \nTerakhir, periksa juga apakah dosen telah menginput nilai Anda. Jika setelah memeriksa ketiga hal ini masalah masih berlanjut, jangan ragu untuk mencari bantuan lebih lanjut melalui laman tersebut."
+            ]
         }
     ]
 }
