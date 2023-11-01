@@ -230,11 +230,27 @@
             "tag": "elena",
             "patterns":[
                 "Kenapa elena saya tidak bisa dibuka?",
+                "elena saya error",
                 "Mengapa saya tidak bisa membuka Elena?",
                 "Mengapa saya mengalami kesulitan dalam mengakses Elena?",
                 "Bisakah Anda membantu saya menyelesaikan masalah saya dengan aplikasi Elena yang tidak dapat dibuka?",
                 "Bagaimana cara mengatasi masalah jika aplikasi Elena tidak merespons saat dibuka?",
                 "Saya mengalami kendala saat membuka Elena. Apa yang mungkin menjadi penyebabnya?"
+            ],
+            "responses":[
+                "Beberapa cara untuk mengatasi hal tersebut dengan cara:\n1. Mencoba menggunakan perangkat lain atau jaringan lain \n2. Mencoba menggunakan hotspot dari ponsel atau jaringan Wi-Fi yang berbeda \n3. Mengganti peramban (browser) yang Anda gunakan \n4. Periksa koneksi internet Anda, mungkin ada masalah dengan jaringan yang sedang Anda gunakan \n5. Coba matikan dan nyalakan kembali Wi-Fi atau data seluler Anda gunakan \n6. Cobalah untuk Restart perangkat Anda"
+            ]
+        },
+        {
+            "tag": "sikadu",
+            "patterns":[
+                "Kenapa sikadu saya tidak bisa dibuka?",
+                "Sikadu saya error",
+                "Mengapa saya tidak bisa membuka sikadu?",
+                "Mengapa saya mengalami kesulitan dalam mengakses dikadu?",
+                "Bisakah Anda membantu saya menyelesaikan masalah saya dengan aplikasi dikadu yang tidak dapat dibuka?",
+                "Bagaimana cara mengatasi masalah jika aplikasi sikadu tidak merespons saat dibuka?",
+                "Saya mengalami kendala saat membuka sikadux. Apa yang mungkin menjadi penyebabnya?"
             ],
             "responses":[
                 "Beberapa cara untuk mengatasi hal tersebut dengan cara:\n1. Mencoba menggunakan perangkat lain atau jaringan lain \n2. Mencoba menggunakan hotspot dari ponsel atau jaringan Wi-Fi yang berbeda \n3. Mengganti peramban (browser) yang Anda gunakan \n4. Periksa koneksi internet Anda, mungkin ada masalah dengan jaringan yang sedang Anda gunakan \n5. Coba matikan dan nyalakan kembali Wi-Fi atau data seluler Anda gunakan \n6. Cobalah untuk Restart perangkat Anda"
@@ -282,6 +298,69 @@
                 "Jika KTM Anda hilang, ada beberapa syarat yang harus dipenuhi untuk mengurus penggantian KTM baru, yaitu: \n1. Anda harus menjadi mahasiswa aktif yang belum lulus \n2. Harus memiliki email mahasiswa UNNES (nama@students.unnes.ac.id) \n3. Menyertakan surat keterangan kehilangan dari fakultas atau dari kepolisian \n4. Biaya cetak ulang KTM sebesar Rp. 50.000 harus dibayarkan \n5. Setelah memenuhi syarat-syarat ini, silakan kunjungi ULT UNNES untuk mendapatkan arahan lebih lanjut mengenai prosedur selanjutnya.",
                 "Untuk melakukan penggantian KTM yang hilang, Anda perlu memenuhi beberapa persyaratan berikut: \n1. Status sebagai mahasiswa aktif yang belum lulus \n2. Memiliki email mahasiswa UNNES (nama@students.unnes.ac.id) \n3. Menyertakan surat keterangan kehilangan dari fakultas atau dari kepolisian \n4. Membayar biaya cetak ulang KTM sebesar Rp. 50.000 \n5. Mengunjungi ULT UNNES dan memberikan persyaratan tersebut kepada petugas, yang akan membimbing Anda melalui prosedur selanjutnya.",
                 "Terdapat beberapa persyaratan yang perlu dipenuhi untuk mengurus penggantian KTM yang hilang, antara lain: \n1. Anda harus menjadi mahasiswa aktif yang belum lulus \n2. Harus memiliki email mahasiswa UNNES (nama@students.unnes.ac.id) \n3. Wajib menyiapkan surat keterangan kehilangan dari fakultas atau dari kepolisian \n4. Bukti pembayaran cetak ulang KTM sebesar Rp. 50.000 \n5. Anda diharapkan datang ke ULT UNNES dengan kelengkapan persyaratan tersebut. Di sana, petugas akan memberikan arahan mengenai prosedur selanjutnya."
+            ]
+        },
+        {
+            "tag": "alamat_kampus",
+            "patterns":[
+                "Dimana alamat kampus UNNES?",
+                "Bisa beri tahu saya di mana kampus UNNES berada?",
+                "Lokasi kampus UNNES ada di mana?",
+                "Boleh minta alamat lengkap kampus UNNES?",
+                "Di mana saya bisa menemukan kampus Universitas Negeri Semarang?",
+                "Alamat kampus UNNES, bisa tolong?",
+                "Saya butuh informasi alamat UNNES, apakah kamu bisa membantu?",
+                "Tolong bagikan alamat universitas di Semarang.",
+                "Dimana alamat persis dari UNNES?",
+                "Bolehkah kamu memberi tahu saya di mana UNNES berlokasi?",
+                "Saya perlu tahu lokasi UNNES di Semarang, bisakah kamu memberi alamatnya?"
+            ],
+            "responses":[
+                "Alamat kampus UNNES ada di Sekaran Gunungpati, Kelurahan Sekaran, Kecamatan Gunungpati, Kota Semarang, Jawa Tengah 50229.",
+                "Anda bisa menemukan kampus UNNES di Sekaran Gunungpati, Semarang, Jawa Tengah, 50229.",
+                "Lokasi kampus UNNES terletak di daerah Sekaran Gunungpati, Semarang, Jawa Tengah dengan kode pos 50229.",
+                "Kampus UNNES berada di Kota Semarang, tepatnya di Sekaran Gunungpati dengan kode pos 50229.",
+                "Alamat lengkap kampus UNNES yaitu Sekaran Gunungpati, Kelurahan Sekaran, Kecamatan Gunungpati, Kota Semarang, Jawa Tengah 50229."
+            ]
+        },
+        {
+            "tag": "krs",
+            "patterns":[
+                "Bagaimana cara mengisi KRS?",
+                "Bagaimana langkah-langkahnya untuk mengisi KRS?",
+                "Apa prosedur yang harus diikuti untuk mengisi KRS?",
+                "Bagaimana cara yang tepat untuk mengisi Kartu Rencana Studi (KRS)?",
+                "Bisakah Anda memberi tahu saya langkah-langkah detail untuk mengisi KRS?",
+                "Bagaimana caranya mengisi KRS di sistem kampus kami?",
+                "Apakah ada petunjuk khusus yang harus diikuti saat mengisi KRS?",
+                "Dapatkah Anda menjelaskan proses lengkap untuk pengisian KRS?",
+                "Bagaimana saya bisa memulai proses pengisian KRS untuk semester ini?",
+                "Bisakah Anda memberi saya informasi lebih lanjut tentang tata cara pengisian KRS secara online?"
+            ],
+            "responses":[
+                "Cara mengisi KRS yaitu dengan langkah berikut: \n1. Membukan website apps.unnes.ac.id \n2. Pilih pada bagian sikadu \n3. Buka aktivitas kuliah pada bagian menu Dashboard \n4. Pada rencana studi, pilih ikon 'plus' mata kuliah yang ingin diambil",
+                "Langkah-langkah untuk mengisi KRS adalah sebagai berikut: \na. Akses website apps.unnes.ac.id \nb. Klik pada opsi 'Sikadu' \nc. Buka menu Dashboard dan pilih 'Aktivitas Kuliah' \nd. Pada bagian Rencana Studi, tambahkan mata kuliah yang ingin diambil dengan mengklik ikon 'plus'.",
+                "Untuk mengisi KRS, lakukan langkah-langkah berikut: \na. Kunjungi situs apps.unnes.ac.id \nb. Pilih opsi 'Sikadu' \nc. Di menu Dashboard, cari dan buka 'Aktivitas Kuliah' \nd. Pada bagian Rencana Studi, tambahkan mata kuliah yang diinginkan dengan mengklik ikon 'plus'.",
+                "Jika Anda ingin mengisi KRS, ikuti panduan berikut: \na. Buka website apps.unnes.ac.id \nb. Pilih opsi 'Sikadu' \nc. Di menu Dashboard, temukan dan klik 'Aktivitas Kuliah' \nd. Di bagian Rencana Studi, tambahkan mata kuliah yang ingin diambil dengan mengeklik ikon 'plus'.",
+                "Alamat lengkap kampus UNNES yaitu Sekaran Gunungpati, Kelurahan Sekaran, Kecamatan Gunungpati, Kota Semarang, Jawa Tengah 50229."
+            ]
+        },
+        {
+            "tag": "cuti",
+            "patterns":[
+                "Bagaimana cara mengajukan cuti?",
+                "Apakah prosedur yang harus saya ikuti untuk mengajukan cuti?",
+                "Bagaimana langkah-langkahnya untuk mengajukan izin cuti?",
+                "Apa yang perlu saya lakukan agar bisa mendapatkan persetujuan cuti?",
+                "Bisakah Anda memberi tahu saya langkah-langkahnya jika saya ingin mengambil cuti?",
+                "Bagaimana prosesnya jika saya ingin mengambil cuti?"
+            ],
+            "responses":[
+                "Mahasiswa yang ingin mengajukan cuti dapat mengajukan secara online melalui laman my.unnes.ac.id dengan cara: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nSetelah berhasil mengajukan cuti melalui laman http://my.unnes.ac.id, mahasiswa dapat menghubungi Kaprodi untuk melakukan validasi ajuan cuti dari mahasiswa. Jika pengajuan cuti mahasiswa disetujui oleh Kaprodi, akan muncul kode pembayaran cuti pada riwayat ajuan cuti. Kode pembayaran tersebut digunakan untuk melakukan pembayaran di BNI. Setelah pembayaran berhasil dilakukan, maka mahasiswa dapat mengunduh kartu cuti melalui laman my.unnes.ac.id beberapa jam setelah pembayaran berhasil.",
+                "Mahasiswa dapat mengajukan cuti melalui laman my.unnes.ac.id. Silakan ikuti langkah-langkah berikut: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nJangan lupa untuk menghubungi Kaprodi setelah mengajukan cuti untuk validasi lebih lanjut. Setelah disetujui, pastikan untuk melakukan pembayaran di BNI menggunakan kode pembayaran yang diberikan. Kartu cuti dapat diunduh setelah pembayaran berhasil.   ",
+                "Proses pengajuan cuti bagi mahasiswa dilakukan secara online melalui laman my.unnes.ac.id. dengan cara : \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \n Setelah pengajuan disetujui oleh Kaprodi, pastikan untuk melakukan pembayaran di BNI menggunakan kode pembayaran yang muncul. Jangan lupa untuk mengunduh kartu cuti setelah pembayaran berhasil.",
+                "Untuk mengajukan cuti, akses laman my.unnes.ac.id dan ikuti langkah-langkah berikut: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nPastikan untuk menghubungi Kaprodi setelah mengajukan cuti untuk proses validasi. Setelah mendapatkan kode pembayaran, lakukan pembayaran di BNI dan unduh kartu cuti dari laman tersebut beberapa jam setelah pembayaran berhasil.",
+                "Jika Anda ingin mengajukan cuti, lakukan prosesnya secara online melalui my.unnes.ac.id dengan mengikuti langkah-langkah berikut: \na. Login sebagai mahasiswa di MyUNNES (http://my.unnes.ac.id) \nb. Klik menu Peralatan > Identitas \nc Klik tab Registrasi \nd. Tampilan tab Registrasi bagian bawah akan menampilkan riwayat ajuan cuti. \ne. Klik tombol Ajukan Cuti untuk memulai prosedur cuti online \nf. Pilih jenis cuti \ng. Pilih semester yang akan diajukan cuti \nh. Isikan keterangan singkat, misalnya alasan pengajuan cuti \ni. Klik tombol Simpan Perubahan \nj. Jika berhasil menyimpan, data riwayat cuti akan tersimpan di tabel \nSetelah pengajuan disetujui, pastikan untuk membayar dengan menggunakan kode pembayaran yang diberikan di BNI. Jangan lupa untuk mengunduh kartu cuti setelah pembayaran berhasil."
             ]
         }
     ]
